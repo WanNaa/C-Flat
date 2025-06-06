@@ -1,6 +1,6 @@
 # C-Flat
 
-This repo contaions the official implementation of the NIPS2024 paper "Make Continual Learning Stronger via C-Flat" [[paper](https://openreview.net/pdf?id=Dokew2u49m)].
+This repo contaions the official implementation of the NeurIPS2024 paper "Make Continual Learning Stronger via C-Flat" [[paper](https://openreview.net/pdf?id=Dokew2u49m)].
 
 ## Acknowledgment
 This repository is partially based on [PyCIL](https://github.com/G-U-N/PyCIL) and [GAM](https://github.com/xxgege/GAM).
