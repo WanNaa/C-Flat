@@ -64,9 +64,11 @@ If you find this repo useful for your research, please consider citing the paper
 
 ```
 @article{bian2024make,
-  title={Make Continual Learning Stronger via C-Flat},
-  author={Bian, Ang and Li, Wei and Yuan, Hangjie and Yu, Chengrong and Zhao, Zixiang and Wang, Mang and Lu, Aojun and Feng, Tao},
-  journal={arXiv preprint arXiv:2404.00986},
+  title={Make continual learning stronger via c-flat},
+  author={Bian, Ang and Li, Wei and Yuan, Hangjie and Wang, Mang and Zhao, Zixiang and Lu, Aojun and Ji, Pengliang and Feng, Tao and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={7608--7630},
   year={2024}
 }
 ```
